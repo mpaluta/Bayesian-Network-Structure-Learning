@@ -1,0 +1,10 @@
+digraph {
+drama -> family 
+foreign -> classic 
+thriller -> action 
+thriller -> horror 
+foreign -> thriller 
+family -> animation 
+comedy -> romance 
+comedy -> foreign drama -> comedy
+}
